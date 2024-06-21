@@ -8,6 +8,7 @@ import {
 } from "@/components/ui/card";
 import TaskForm from "@/components/form";
 import { TableDemo } from "@/components/TaskTable";
+export const reavlidate = 5;
 export default function Home() {
   return (
     <>
